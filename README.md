@@ -1,1 +1,4 @@
-# Gray - Linear Data Structures
+1. A programmer would use linked lists when they want to use stack and queue data structures and when there are frequent insertions and deletions. Frequent changes in the data are easil handeled with linked lists because you dont need to shift elements and because you can add or remove elements at any position in the list.
+2. The difference between a stack and a queue is the order that the data inside come out. In a queue its just a solid line where as the data enters the data comes out in the order they came in where stacks when data comes in the data that comes out is the last set that went in.
+3. A situation where a developer would use a stack while writing a program is when a program might require an undo button for the user.
+4. Developers would use arrays rather than lists when they are using small datasets.
